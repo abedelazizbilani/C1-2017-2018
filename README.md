@@ -5,4 +5,5 @@ GitLab
 * installation
 * pourquoi git lab
 * comparaison avec autre git source control
-* 
+* qui utilise git
+* produits 
